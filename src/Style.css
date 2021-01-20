@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,400&display=swap');
+.App {
+    max-width: 768px;
+    margin: auto;
+}
+
+.Obsh {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Nav {
+    color: rgba(0,51,153,1);
+    font-size: 24px;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+
+}
+.Nav-2 {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.number {
+    font-size: 288px;
+    text-align: center;
+    color: rgba(242,124,15,1);
+    font-family: 'Roboto', sans-serif;
+}
+ .buttons {
+     border-radius: 5px;
+     width: 200px;
+     height: 58px;
+     font-size: 24px;
+     color: rgba(255,255,255,1);
+     text-align: center;
+     padding-top: 10px;
+     font-family: 'Roboto', sans-serif;
+ }
+
+ .buttons-1 {
+     background-color: rgba(0,51,153,1);
+ }
+
+.buttons-2 {
+    background-color: rgba(242,124,15,1);
+}
+
+.buttons-3 {
+    background-color: rgba(229,229,229,1);
+    color: rgba(0,0,0,1);
+}
+
+.btn {
+    justify-content: space-around;
+    display: flex;
+}
+
+.line {
+    height: 2px;
+    width: 100%;
+    background-color: rgb(234, 237, 237);
+    margin-top: 15px;
+}
+
+.Foother {
+    display: flex;
+    position:fixed;
+    top: 95%;
+}
+
+.FootherMenu {
+    display: flex;
+    font-size: 16px;
+    color: rgb(133, 146, 158);
+    margin-top: 3px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.FootherInfo {
+    font-size: 16px;
+    color: rgb(133, 146, 158);
+    margin-top: 4px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.razrabotchikam {
+    margin-right: 30px;
+    margin-left: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.vakansii {
+    margin-right: 133px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Flogo {
+    margin-right: 30px;
+}
