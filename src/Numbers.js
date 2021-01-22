@@ -3,7 +3,7 @@ import React from 'react';
 function Numbers(props) {
     return (
         <div>
-            <div className="number">0</div>
+            <div className="number">{props.bot}</div>
         </div>
     );
 }
